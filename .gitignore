@@ -1,0 +1,17 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Word 临时文件
+~$*.docx
+
+# 编辑器和程序缓存
+.vscode/
+.idea/
+__pycache__/
+*.tmp
+*.bak
+
+# Codex 或本地临时输出
+.codex/
+temp/
